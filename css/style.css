@@ -1,0 +1,161 @@
+h3{
+    text-align: center;
+}
+#oreja1{
+
+    width: 90px;
+    height: 90px;
+    background-color: antiquewhite;
+    display: inline-block;
+    right: 25px;
+    border-radius: 100px;
+    position: absolute;
+    left: 450px;
+}
+#oreja1_1{
+    width: 50px;
+    height: 50px;
+    background-color: darkred;
+    border-radius: 100px; 
+    position: absolute;
+    left: 11px;
+    top: 30px;
+}
+#oreja2{
+    width: 90px;
+    height: 90px;
+    background-color: antiquewhite;
+    display: inline-block;
+    left: 25px;
+    position: absolute;
+    border-radius: 100px;
+    left: 250px;
+}
+#oreja2_1{
+    width: 50px;
+    height: 50px;
+    background-color: darkred;
+    border-radius: 100px; 
+    position: absolute;
+    left: 29px;
+    top: 30px;
+}
+#cabeza{
+    width: 180px;
+    height: 180px;
+    background-color: antiquewhite;
+    display: inline-block;
+    border-radius: 100px;
+    position: relative;
+    left: 298px;
+    top: 40px;
+}
+#ojo1{
+    width: 45px;
+    height: 45px;
+    background-color: aliceblue;
+    border-radius: 100px;
+    position: relative;
+    top: 44px;
+    left: 25px;
+}
+#ojo1_1{
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    border-radius: 75px;
+    position: absolute;
+    top: 11px;
+    left: 11px;
+}
+#ojo2{
+    width: 45px;
+    height: 45px;
+    background-color: aliceblue;
+    border-radius: 100px;
+    position: relative;
+    left: 99px;
+}
+#ojo2_1{
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    border-radius: 75px;
+    position: absolute;
+    top: 11px;
+    left: 8px;
+}
+#nariz{
+    width: 22px;
+    height: 30px;
+    background-color: black;
+    border-radius: 75px;
+    position: relative;
+    top: 4px;
+    left: 74px;
+}
+#boca{
+    width: 42px;
+    height: 23px;
+    background-color: black;
+    border-radius: 75px;
+    position: relative;
+    top: 5px;
+    left: 66px;
+}
+#pansaxd{
+    width: 240px;
+    height: 230px;
+    background-color: antiquewhite;
+    display: inline-block;
+    border-radius: 100px;
+    position: relative;
+    right: 25px;
+    top: 25px;
+}
+#pansa1xd{
+    width: 170px;
+    height: 170px;
+    background-color: burlywood;
+    display: inline-block;
+    border-radius: 100px;
+    position: relative;
+    left: 32px;
+    top: 25px;
+}
+#manoDer{
+    width: 55px;
+    height: 55px;
+    background-color: peru;
+    border-radius: 100px; 
+    position: absolute;
+    right: 191px;
+    top: 185px;
+}
+#manoIzq{
+    width: 55px;
+    height: 55px;
+    background-color: peru;
+    border-radius: 100px; 
+    position: absolute;
+    left: 200px;
+    top: 185px;
+}
+#pieDer{
+    width: 55px;
+    height: 65px;
+    background-color: peru;
+    border-radius: 100px; 
+    position: absolute;
+    right: 140px;
+    top: 375px;
+}
+#pieIzq{
+    width: 55px;
+    height: 65px;
+    background-color: peru;
+    border-radius: 100px; 
+    position: absolute;
+    left: 145px;
+    top: 375px;
+}
